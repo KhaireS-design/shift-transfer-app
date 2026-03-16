@@ -5,8 +5,6 @@ const LOCATION_CODE = "UW3";
 const SITE_NAME = "Union Hall";
 
 const STAFF_LIST = [
-  // Replace these with your actual staff from the AD export
-  // Format: { name: "Last, First", role: "Job Title Code" }
   { name: "Smith, John", role: "Supervisor" },
   { name: "Doe, Jane", role: "Case Manager" },
   { name: "Garcia, Maria", role: "Security" },
@@ -15,6 +13,14 @@ const STAFF_LIST = [
   { name: "Davis, Robert", role: "Front Desk" },
   { name: "Johnson, Kim", role: "Case Manager" },
   { name: "Wilson, Troy", role: "Security" },
+  { name: "Travis, Johnson", role: "Ops Supervisor" },
+  { name: "Reagan, Fetter", role: "AVP" },
+  { name: "Norenga, Thomas", role: "Program Director" },
+  { name: "Olawale, Adigun", role: "Program Director" },
+  { name: "Vincent, Knowles", role: "Ops Supervisor" },
+  { name: "Catondra, Spencer", role: "AVP" },
+  { name: "JawnAnthony, Bramble", role: "AVP" },
+  { name: "Consuelo, Pinales", role: "VP" }
 ];
 
 const SHIFTS = {
